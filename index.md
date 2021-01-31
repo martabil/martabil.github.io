@@ -1,10 +1,3 @@
-# title
-
-This is a paragrph.
-
-markdown
-=====
-
 ---
 layout: default
 title: Introduction
