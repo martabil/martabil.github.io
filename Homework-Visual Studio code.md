@@ -26,10 +26,13 @@ nav_order: 2
 ![file](./images/file.png)
 
 3. To see preview that will show how text is generated into HTML save file as markdown. Go to *File > Save As* or click Ctrl+Shift+S then choose the location and extension: markdown. After that click Ctrl+K V 
+
 4. To navigate within document go to OUTLINE in the lower left hand corner. You can find structure of the whole document there.  
    
-![outline](./images/outline.png)  
+![outline](./images/outline.png)
+
 5. To see a suggestion for command  click Ctrl+Space. After that below box appears. 
+
 ![suggestion](./images/suggestion.png) 
 
 6. To see whitespaces go to *View > Render Whitespace*  
@@ -47,4 +50,4 @@ On dropdown list find "editor.suggest.showWords" and change trur for false as ma
 ![install](./images/install.png)
 
 
-9.  To get more information and learn more about Visual Studio Code go to [introvideos](https://code.visualstudio.com/docs/getstarted/introvideos)
+9. To get more information and learn more about Visual Studio Code go to [introvideos](https://code.visualstudio.com/docs/getstarted/introvideos)
