@@ -25,6 +25,7 @@ nav_order: 5
 2. From your main profile page click **New** 
 
 ![gitpagesnew](./images/gitpagesnew.png)
+
 3. Give your repository special name username.github.io (where “username” is your actual GitHub user name)
    
 ![gitpagesio](./images/gitpagesio.png)
@@ -53,9 +54,3 @@ nav_order: 5
 
 11. Click **Publish branch** 
 
-## How to add markdown file 
-1. Change the name of the file for Index.md 
-2. Repeat steps 10-11 
-3. If you copy address username.github.io (where "username" is your actual Github user name) and paste it to a browser, the final result should be as per below: 
-
-![gitpagesweb](./images/gitpagesweb.png)
