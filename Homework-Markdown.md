@@ -4,8 +4,6 @@ layout: default
 
 title: Homework-Markdown
 
-parent: Homework-Markdown
-
 nav_order: 3
 
 ---

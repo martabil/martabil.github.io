@@ -4,8 +4,6 @@ layout: default
 
 title: Homework-Visual Studio Code
 
-parent: Homework-Visual Studio Code
-
 nav_order: 2
 
 ---
