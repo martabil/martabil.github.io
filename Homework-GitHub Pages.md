@@ -19,36 +19,36 @@ nav_order: 5
 
 ## How to create a website with GitHub Pages
 
-1. Create a new repository
-2. From your main profile page click **New** 
+Create a new repository
+From your main profile page click **New** 
 
 ![gitpagesnew](./images/gitpagesnew.png)
 
-3. Give your repository special name username.github.io (where “username” is your actual GitHub user name)
+Give your repository special name username.github.io (where “username” is your actual GitHub user name)
    
 ![gitpagesio](./images/gitpagesio.png)
 
-4. Select **Public**
-5. Click **Create repostitory**
-6. Click **Set up in Desktop**
+Select **Public**
+Click **Create repostitory**
+Click **Set up in Desktop**
    
 ![gitpagessetup](./images/gitpagessetup.png)
 
-7. Clone repostitory
+Clone repostitory
 
 ![gitpagesclone](./images/gitpagesclone.png)
 
-8. Open in Visual Studio Code
+Open in Visual Studio Code
 
 ![gitpagesvsc](./images/gitpagesvsc.png)
 
-9. In the  folder create new file and name it **Index.html**. Find in the browser beginning of a code Hello World HTML and paste it into the file
+In the  folder create new file and name it **Index.html**. Find in the browser beginning of a code Hello World HTML and paste it into the file
 
 ![gitpagesindex](./images/gitpagesindex.png) 
 
-10. Go to GitHub Desktop and click **Commit to master**
+Go to GitHub Desktop and click **Commit to master**
 
 ![gitpagescommit](./images/gitpagescommit.png)
 
-11. Click **Publish branch** 
+Click **Publish branch** 
 
