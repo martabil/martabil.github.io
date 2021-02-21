@@ -9,7 +9,7 @@ permalink: /
 
 # Introduction
 
-This **User Guide** will help to familiarize with tools such as Visual Studio Code, Markdown, starting from installion and going through basic functions. 
+This **User Guide** will help to familiarize with tools such as Visual Studio Code, Markdown, starting from installation and going through basic functions. 
 
 This **User Guide** will help you to set up an account on GitHub and GitHub Desktop. 
 
