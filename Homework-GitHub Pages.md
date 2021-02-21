@@ -28,29 +28,29 @@ nav_order: 5
    
 ![gitpagesio](./images/gitpagesio.png)
 
-Select **Public**
-Click **Create repostitory**
-Click **Set up in Desktop**
+4. Select **Public**
+5. Click **Create repostitory**
+6. Click **Set up in Desktop**
    
 ![gitpagessetup](./images/gitpagessetup.png)
 
-Clone repostitory
+7. Clone repostitory
 
 ![gitpagesclone](./images/gitpagesclone.png)
 
-Open in Visual Studio Code
+8. Open in Visual Studio Code
 
 ![gitpagesvsc](./images/gitpagesvsc.png)
 
-In the  folder create new file and name it **Index.html**. Find in the browser beginning of a code Hello World HTML and paste it into the file
+9. In the  folder create new file and name it **Index.html**. Find in the browser beginning of a code Hello World HTML and paste it into the file
 
 ![gitpagesindex](./images/gitpagesindex.png) 
 
-Go to GitHub Desktop and click **Commit to master**
+10. Go to GitHub Desktop and click **Commit to master**
 
 ![gitpagescommit](./images/gitpagescommit.png)
 
-Click **Publish branch** 
+11. Click **Publish branch** 
 
 
 
