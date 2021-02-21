@@ -51,27 +51,44 @@ To create account go to [GitHub](https://github.com/) and click Sign Up (if you 
 ## How to publish your repository to GitHub
 
 1. Click **Publish your repository to GitHub**
+
+
 ![gitpublish](./images/gitpublish.png)
+
+
 ![gitpublish2](./images/gitpublish2.png)
 - *Name* and *Description* are automatically filled with information provided previously
-2. Select **Keep this code private** to control who can view repository
-3. Click **Publish repository**
+1. Select **Keep this code private** to control who can view repository
+2. Click **Publish repository**
 
 ## How to commit and push changes? 
 
 1. In GitHub Desktop go to *Repository>Show in Exlorer*
+
+
 ![showinexlorer](./images/showinexplorer.png)
+
+
 2. In the folder add file/s locally on your computer
 3. In GitHub Desktop go to Changes where you can see changes made in the file; checkmark indicates that the changes made to the file will be part of the commit 
+
+
 ![gitchanges](./images/gitchanges.png)
 4. In the lower left hand corner fill in the field *Summary* and then click **Commit to main** 
+
 ![gitcommit](./images/gitcommit.png)
 
 ## How to share your repository with others 
+
 1. Go to GitHub, in your repository go to *Settings>Mange access*
-![gitshare](./images/gitshare.png)
-2. On the right click **Invite a collaborator** 
+     
+![gitshare](./images/gitshare.png)  
+
+2. On the right click **Invite a collaborator**
+
 ![gitinvite](./images/gitinvite.png)
+
 3. Type in name of collaborator and click **Select a collaborator above** 
+
 ![gitcollborator](./images/gitcollborator.png)
 
