@@ -19,12 +19,12 @@ nav_order: 5
 
 ## How to create a website with GitHub Pages
 
-Create a new repository
-From your main profile page click **New** 
+1. Create a new repository
+2. From your main profile page click **New** 
 
 ![gitpagesnew](./images/gitpagesnew.png)
 
-Give your repository special name username.github.io (where “username” is your actual GitHub user name)
+3. Give your repository special name username.github.io (where “username” is your actual GitHub user name)
    
 ![gitpagesio](./images/gitpagesio.png)
 
@@ -51,4 +51,6 @@ Go to GitHub Desktop and click **Commit to master**
 ![gitpagescommit](./images/gitpagescommit.png)
 
 Click **Publish branch** 
+
+
 
