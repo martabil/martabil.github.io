@@ -34,13 +34,13 @@ To create account go to [GitHub](https://github.com/) and click Sign Up (if you 
 
 ## How to create a repository?
 
-1. Click on a **+ Create a New Repository on your hard drive**
+Click on a **+ Create a New Repository on your hard drive**
 
 
 ![startgit](./images/startgit.png)
 
 
-2. Fill in the fields
+Fill in the fields
 
 ![gitsign2](./images/gitsign2.png)
 
@@ -48,12 +48,12 @@ To create account go to [GitHub](https://github.com/) and click Sign Up (if you 
 - *Description* - provides more infromation about repository
 - *Path* - sets location of repository on computer
 
-3. Select **Initialize this repository with a README**  
-4. Click Create a repository
+Select **Initialize this repository with a README**  
+Click Create a repository
 
 ## How to publish your repository to GitHub
 
-1. Click **Publish your repository to GitHub**
+Click **Publish your repository to GitHub**
 
 
 ![gitpublish](./images/gitpublish.png)
@@ -61,37 +61,37 @@ To create account go to [GitHub](https://github.com/) and click Sign Up (if you 
 
 ![gitpublish2](./images/gitpublish2.png)
 - *Name* and *Description* are automatically filled with information provided previously
-2. Select **Keep this code private** to control who can view repository
-3. Click **Publish repository**
+Select **Keep this code private** to control who can view repository
+Click **Publish repository**
 
 ## How to commit and push changes? 
 
-1. In GitHub Desktop go to *Repository>Show in Exlorer*
+In GitHub Desktop go to *Repository>Show in Exlorer*
 
 
 ![showinexlorer](./images/showinexplorer.png)
 
 
-2. In the folder add file/s locally on your computer
-3. In GitHub Desktop go to Changes where you can see changes made in the file; checkmark indicates that the changes made to the file will be part of the commit 
+In the folder add file/s locally on your computer
+In GitHub Desktop go to Changes where you can see changes made in the file; checkmark indicates that the changes made to the file will be part of the commit 
 
 
 ![gitchanges](./images/gitchanges.png)
-4. In the lower left hand corner fill in the field *Summary* and then click **Commit to main** 
+In the lower left hand corner fill in the field *Summary* and then click **Commit to main** 
 
 ![gitcommit](./images/gitcommit.png)
 
 ## How to share your repository with others 
 
-1. Go to GitHub, in your repository go to *Settings>Mange access*
+Go to GitHub, in your repository go to *Settings>Mange access*
      
 ![gitshare](./images/gitshare.png)  
 
-2. On the right click **Invite a collaborator**
+On the right click **Invite a collaborator**
 
 ![gitinvite](./images/gitinvite.png)
 
-3. Type in name of collaborator and click **Select a collaborator above** 
+Type in name of collaborator and click **Select a collaborator above** 
 
 ![gitcollborator](./images/gitcollborator.png)
 
