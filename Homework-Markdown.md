@@ -93,7 +93,8 @@ You can use from 1-6 #, each # making the header smaller.
 
     [second sub-header](#second-sub-header)
 ## Image, link and reference
-1.  To insert an image use ![this text will be visible if no image](path to the file with image)
+
+1.  To insert an image use ![this text will be visible if no image] (path to the file with image)
 
 ![tocode](./images/tocode.jpg)
 
