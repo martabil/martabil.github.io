@@ -16,38 +16,39 @@ nav_order: 2
 
 **Quick user guide**
 
-1. To download Visual Studio Code go to https://code.visualstudio.com/docs and click on Download in the upper right hand corner
+To download Visual Studio Code go to https://code.visualstudio.com/docs and click on Download in the upper right hand corner
+
     
 ![downloadVSC](./images/downloadVSC.png)
 
 
-2. To start writing go to *File > New File* (in the left upper hand corner)
+To start writing go to *File > New File* (in the left upper hand corner)
 
 ![file](./images/file.png)
 
-3. To see preview that will show how text is generated into HTML save file as markdown. Go to *File > Save As* or click Ctrl+Shift+S then choose the location and extension: markdown. After that click Ctrl+K V 
+To see preview that will show how text is generated into HTML save file as markdown. Go to *File > Save As* or click Ctrl+Shift+S then choose the location and extension: markdown. After that click Ctrl+K V 
 
-4. To navigate within document go to OUTLINE in the lower left hand corner. You can find structure of the whole document there.  
+To navigate within document go to OUTLINE in the lower left hand corner. You can find structure of the whole document there.  
    
 ![outline](./images/outline.png)
 
-5. To see a suggestion for command  click Ctrl+Space. After that below box appears. 
+To see a suggestion for command  click Ctrl+Space. After that below box appears. 
 
 ![suggestion](./images/suggestion.png) 
 
-6. To see whitespaces go to *View > Render Whitespace*  
+To see whitespaces go to *View > Render Whitespace*  
    
-   ![render](./images/render.png)
+![render](./images/render.png)
 
 
-7. To see suggestion for formatting click Ctrl+Shift+P > in the box write Preferences > Configure language settings > Markdown  
+To see suggestion for formatting click Ctrl+Shift+P > in the box write Preferences > Configure language settings > Markdown  
 On dropdown list find "editor.suggest.showWords" and change trur for false as marked below
 
 ![showwords](./images/showwords.png)
 
-8. To install helpful extension go to *View>Extensions* search for **Markdown All in One** and click Install
+To install helpful extension go to *View>Extensions* search for **Markdown All in One** and click Install
 
 ![install](./images/install.png)
 
 
-9. To get more information and learn more about Visual Studio Code go to [introvideos](https://code.visualstudio.com/docs/getstarted/introvideos)
+To get more information and learn more about Visual Studio Code go to [introvideos](https://code.visualstudio.com/docs/getstarted/introvideos)
