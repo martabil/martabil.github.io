@@ -37,8 +37,13 @@ To create account go to [GitHub](https://github.com/) and click Sign Up (if you 
 ## How to create a repository?
 
 1. Click on a **+ Create a New Repository on your hard drive**
+
+
 ![startgit](./images/startgit.png)
+
+
 2. Fill in the fields
+
    ![gitsign2](./images/gitsign2.png)
 
 - *Name* - defines name of repository both locally and on GitHub
