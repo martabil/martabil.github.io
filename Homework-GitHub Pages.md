@@ -4,8 +4,6 @@ layout: default
 
 title: Homework-GitHub Pages
 
-parent: Homework-GitHub Pages
-
 nav_order: 5
 
 ---

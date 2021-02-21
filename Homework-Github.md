@@ -4,8 +4,6 @@ layout: default
 
 title: Homework-GitHub
 
-parent: Homework-GitHub
-
 nav_order: 4
 
 ---
