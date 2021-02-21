@@ -3,7 +3,7 @@ title: User guide
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: martabil/just-the-docs
 
-color_scheme: dark
+color_scheme: light
 
 # logo: "/assets/images/Morris_badge.png 
 
