@@ -42,7 +42,7 @@ To create account go to [GitHub](https://github.com/) and click Sign Up (if you 
 
 2. Fill in the fields
 
-   ![gitsign2](./images/gitsign2.png)
+![gitsign2](./images/gitsign2.png)
 
 - *Name* - defines name of repository both locally and on GitHub
 - *Description* - provides more infromation about repository
@@ -61,8 +61,8 @@ To create account go to [GitHub](https://github.com/) and click Sign Up (if you 
 
 ![gitpublish2](./images/gitpublish2.png)
 - *Name* and *Description* are automatically filled with information provided previously
-1. Select **Keep this code private** to control who can view repository
-2. Click **Publish repository**
+2. Select **Keep this code private** to control who can view repository
+3. Click **Publish repository**
 
 ## How to commit and push changes? 
 
