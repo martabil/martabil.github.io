@@ -96,7 +96,8 @@ You can use from 1-6 #, each # making the header smaller.
 
 1. To insert an image use ![this text will be visible if no image] (path to the file with image)
 
-![tocode](./images/tocode.jpg)
+![tocode](./images/tocode.jpg)  
+
 
 2. To insert a link use square brackets [link text] and then parentheses (URLadrres), no spaces between them
    
